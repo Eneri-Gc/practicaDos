@@ -1,0 +1,8 @@
+class saludo:
+	def __init__(self, saluda):
+		self.e = saluda
+
+		
+s= saludo("Hola mundo")		
+print (s.e)
+
